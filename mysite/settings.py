@@ -25,7 +25,7 @@ SECRET_KEY = 'u!pbf_m9$zi)62ywrq8ddhl_oe35jyxg$p!0php!&m=l5xuwj$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'jenialit.pythonanywhere.com']
 
 
 # Application definition
